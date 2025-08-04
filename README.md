@@ -17,6 +17,20 @@ _Screenshots showing different battery states for clarity._
 
 ---
 
+## Folder Structure
+    
+    ├── .idea
+        ├── .gitignore
+        ├── misc.xml
+        ├── modules.xml
+        └── vcs.xml
+    ├── README.md
+    ├── battery-test.iml
+    ├── images
+        ├── charging.png
+        └── disconnected.png
+    └── index.html
+
 ## ⚙️ How It Works
 
 This project uses the **Battery Status API** (`navigator.getBattery()`) to display real-time battery information:
