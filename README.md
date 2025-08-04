@@ -1,5 +1,5 @@
 
-# Battery-Indicator
+# Battery-Indicator Using Battery Status API
 
 A sleek battery visualization tool for your web projects — shows live battery level, status, and charging state with a clean UI.
 
@@ -17,7 +17,7 @@ _Screenshots showing different battery states for clarity._
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
     
     ├── .idea
         ├── .gitignore
