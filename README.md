@@ -51,7 +51,5 @@ You can **run this locally**:
 - Leverages `BatteryManager` events:
     - `levelchange`
     - `chargingchange`
-    - `chargingtimechange`
-    - `dischargingtimechange`
 
 ---
